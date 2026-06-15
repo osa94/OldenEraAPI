@@ -1,5 +1,5 @@
 {
-  "unit_parasite": {
+  "unit_hive_t1u0": {
     "faction": "hive",
     "tier": 1,
     "name": "parasite",
@@ -16,7 +16,7 @@
     "gold_cost": 80,
     "faction_resource_cost": 0
   },
-  "unit_warden_parasite": {
+  "unit_hive_t1u1": {
     "faction": "hive",
     "tier": 1,
     "name": "warden parasite",
@@ -33,7 +33,7 @@
     "gold_cost": 100,
     "faction_resource_cost": 0
   },
-  "unit_ravager_parasite": {
+  "unit_hive_t1u2": {
     "faction": "hive",
     "tier": 1,
     "name": "ravager parasite",
@@ -50,7 +50,7 @@
     "gold_cost": 100,
     "faction_resource_cost": 0
   },
-  "unit_locust": {
+  "unit_hive_t2u0": {
     "faction": "hive",
     "tier": 2,
     "name": "locust",
@@ -67,7 +67,7 @@
     "gold_cost": 125,
     "faction_resource_cost": 0
   },
-  "unit_overgrown_locust": {
+  "unit_hive_t2u1": {
     "faction": "hive",
     "tier": 2,
     "name": "overgrown locust",
@@ -84,7 +84,7 @@
     "gold_cost": 170,
     "faction_resource_cost": 0
   },
-  "unit_harvester_locust": {
+  "unit_hive_t2u2": {
     "faction": "hive",
     "tier": 2,
     "name": "harvester locust",
@@ -101,7 +101,7 @@
     "gold_cost": 170,
     "faction_resource_cost": 0
   },
-  "unit_hornet": {
+  "unit_hive_t3u0": {
     "faction": "hive",
     "tier": 3,
     "name": "hornet",
@@ -118,7 +118,7 @@
     "gold_cost": 235,
     "faction_resource_cost": 0
   },
-  "unit_chanter": {
+  "unit_hive_t3u1": {
     "faction": "hive",
     "tier": 3,
     "name": "chanter",
@@ -135,7 +135,7 @@
     "gold_cost": 320,
     "faction_resource_cost": 0
   },
-  "unit_stinger": {
+  "unit_hive_t3u2": {
     "faction": "hive",
     "tier": 3,
     "name": "stinger",
@@ -152,7 +152,7 @@
     "gold_cost": 320,
     "faction_resource_cost": 0
   },
-  "unit_scorpion": {
+  "unit_hive_t4u0": {
     "faction": "hive",
     "tier": 4,
     "name": "scorpion",
@@ -169,7 +169,7 @@
     "gold_cost": 300,
     "faction_resource_cost": 0
   },
-  "unit_volcanic_scorpion": {
+  "unit_hive_t4u1": {
     "faction": "hive",
     "tier": 4,
     "name": "volcanic scorpion",
@@ -186,7 +186,7 @@
     "gold_cost": 420,
     "faction_resource_cost": 0
   },
-  "unit_spelaean_scorpion": {
+  "unit_hive_t4u2": {
     "faction": "hive",
     "tier": 4,
     "name": "spelaean scorpion",
@@ -203,7 +203,7 @@
     "gold_cost": 420,
     "faction_resource_cost": 0
   },
-  "unit_reaver": {
+  "unit_hive_t5u0": {
     "faction": "hive",
     "tier": 5,
     "name": "reaver",
@@ -220,7 +220,7 @@
     "gold_cost": 770,
     "faction_resource_cost": 0
   },
-  "unit_menacing_reaver": {
+  "unit_hive_t5u1": {
     "faction": "hive",
     "tier": 5,
     "name": "menacing reaver",
@@ -237,7 +237,7 @@
     "gold_cost": 1100,
     "faction_resource_cost": 0
   },
-  "unit_maniacal_reaver": {
+  "unit_hive_t5u2": {
     "faction": "hive",
     "tier": 5,
     "name": "maniacal reaver",
@@ -254,7 +254,7 @@
     "gold_cost": 1100,
     "faction_resource_cost": 0
   },
-  "unit_waurms": {
+  "unit_hive_t6u0": {
     "faction": "hive",
     "tier": 6,
     "name": "waurms",
@@ -271,7 +271,7 @@
     "gold_cost": 1200,
     "faction_resource_cost": 0
   },
-  "unit_devourer": {
+  "unit_hive_t6u1": {
     "faction": "hive",
     "tier": 6,
     "name": "devourer",
@@ -288,7 +288,7 @@
     "gold_cost": 1900,
     "faction_resource_cost": 0
   },
-  "unit_pyroboros": {
+  "unit_hive_t6u2": {
     "faction": "hive",
     "tier": 6,
     "name": "pyroboros",
@@ -305,7 +305,7 @@
     "gold_cost": 1900,
     "faction_resource_cost": 0
   },
-  "unit_hive_queen": {
+  "unit_hive_t7u0": {
     "faction": "hive",
     "tier": 7,
     "name": "hive queen",
@@ -322,7 +322,7 @@
     "gold_cost": 2200,
     "faction_resource_cost": 1
   },
-  "unit_hive_mother": {
+  "unit_hive_t7u1": {
     "faction": "hive",
     "tier": 7,
     "name": "hive mother",
@@ -339,7 +339,7 @@
     "gold_cost": 3700,
     "faction_resource_cost": 2
   },
-  "unit_hive_huntress": {
+  "unit_hive_t7u2": {
     "faction": "hive",
     "tier": 7,
     "name": "hive huntress",
@@ -357,4 +357,3 @@
     "faction_resource_cost": 2
   }
 }
-
