@@ -1,5 +1,5 @@
 {
-  "unit_faun": {
+  "unit_grove_t1u0": {
     "faction": "grove",
     "tier": 1,
     "name": "faun",
@@ -16,7 +16,7 @@
     "gold_cost": 115,
     "faction_resource_cost": 0
   },
-  "unit_faun_archer": {
+  "unit_grove_t1u1": {
     "faction": "grove",
     "tier": 1,
     "name": "faun archer",
@@ -33,7 +33,7 @@
     "gold_cost": 150,
     "faction_resource_cost": 0
   },
-  "unit_faun_warrior": {
+  "unit_grove_t1u2": {
     "faction": "grove",
     "tier": 1,
     "name": "faun warrior",
@@ -50,7 +50,7 @@
     "gold_cost": 150,
     "faction_resource_cost": 0
   },
-  "unit_hoplet": {
+  "unit_grove_t2u0": {
     "faction": "grove",
     "tier": 2,
     "name": "hoplet",
@@ -67,7 +67,7 @@
     "gold_cost": 150,
     "faction_resource_cost": 0
   },
-  "unit_dawn_hoplet": {
+  "unit_grove_t2u1": {
     "faction": "grove",
     "tier": 2,
     "name": "dawn hoplet",
@@ -84,7 +84,7 @@
     "gold_cost": 200,
     "faction_resource_cost": 0
   },
-  "unit_dusk_hoplet": {
+  "unit_grove_t2u2": {
     "faction": "grove",
     "tier": 2,
     "name": "harvester locust",
@@ -101,7 +101,7 @@
     "gold_cost": 200,
     "faction_resource_cost": 0
   },
-  "unit_vine_iriyad": {
+  "unit_grove_t3u0": {
     "faction": "grove",
     "tier": 3,
     "name": "vine iriyad",
@@ -118,7 +118,7 @@
     "gold_cost": 235,
     "faction_resource_cost": 0
   },
-  "unit_fungal_iriyad": {
+  "unit_grove_t3u1": {
     "faction": "grove",
     "tier": 3,
     "name": "fungal iriyad",
@@ -135,7 +135,7 @@
     "gold_cost": 320,
     "faction_resource_cost": 0
   },
-  "unit_cristal_iriyad": {
+  "unit_grove_t3u2": {
     "faction": "grove",
     "tier": 3,
     "name": "crystal iriyad",
@@ -152,7 +152,7 @@
     "gold_cost": 320,
     "faction_resource_cost": 0
   },
-  "unit_naiad": {
+  "unit_grove_t4u0": {
     "faction": "grove",
     "tier": 4,
     "name": "naiad",
@@ -169,7 +169,7 @@
     "gold_cost": 380,
     "faction_resource_cost": 0
   },
-  "unit_vernal_naiad": {
+  "unit_grove_t4u1": {
     "faction": "grove",
     "tier": 4,
     "name": "vernal naiad",
@@ -186,7 +186,7 @@
     "gold_cost": 530,
     "faction_resource_cost": 0
   },
-  "unit_brumal_naiad": {
+  "unit_grove_t4u2": {
     "faction": "grove",
     "tier": 4,
     "name": "brumal naiad",
@@ -203,7 +203,7 @@
     "gold_cost": 530,
     "faction_resource_cost": 0
   },
-  "unit_herbomancer": {
+  "unit_grove_t5u0": {
     "faction": "grove",
     "tier": 5,
     "name": "herbomancer",
@@ -220,7 +220,7 @@
     "gold_cost": 640,
     "faction_resource_cost": 0
   },
-  "unit_sporemancer": {
+  "unit_grove_t5u1": {
     "faction": "grove",
     "tier": 5,
     "name": "sporemancer",
@@ -237,7 +237,7 @@
     "gold_cost": 910,
     "faction_resource_cost": 0
   },
-  "unit_murmurmancer": {
+  "unit_grove_t5u2": {
     "faction": "grove",
     "tier": 5,
     "name": "murmurmancer",
@@ -254,7 +254,7 @@
     "gold_cost": 910,
     "faction_resource_cost": 0
   },
-  "unit_qilin": {
+  "unit_grove_t6u0": {
     "faction": "grove",
     "tier": 6,
     "name": "qilin",
@@ -271,7 +271,7 @@
     "gold_cost": 1300,
     "faction_resource_cost": 0
   },
-  "unit_thunder_qilin": {
+  "unit_grove_t6u1": {
     "faction": "grove",
     "tier": 6,
     "name": "thunder qilin",
@@ -288,7 +288,7 @@
     "gold_cost": 2000,
     "faction_resource_cost": 0
   },
-  "unit_mist_qilin": {
+  "unit_grove_t6u2": {
     "faction": "grove",
     "tier": 6,
     "name": "mist_qilin",
@@ -305,7 +305,7 @@
     "gold_cost": 2000,
     "faction_resource_cost": 0
   },
-  "unit_phoenix": {
+  "unit_grove_t7u0": {
     "faction": "grove",
     "tier": 7,
     "name": "phoenix",
@@ -322,7 +322,7 @@
     "gold_cost": 2800,
     "faction_resource_cost": 1
   },
-  "unit_flaming_phoenix": {
+  "unit_grove_t7u1": {
     "faction": "grove",
     "tier": 7,
     "name": "flaming phoenix",
@@ -339,7 +339,7 @@
     "gold_cost": 4700,
     "faction_resource_cost": 2
   },
-  "unit_energy_phoenix": {
+  "unit_grove_t7u2": {
     "faction": "grove",
     "tier": 7,
     "name": "hive huntress",

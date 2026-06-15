@@ -1,5 +1,5 @@
 {
-  "unit_swordsman": {
+  "unit_hive_t1u0": {
     "faction": "temple",
     "tier": 1,
     "name": "swordsman",
@@ -16,7 +16,7 @@
     "gold_cost": 85,
     "faction_resource_cost": 0
   },
-  "unit_guard_captain": {
+  "unit_hive_t1u1": {
     "faction": "temple",
     "tier": 1,
     "name": "guard captain",
@@ -33,7 +33,7 @@
     "gold_cost": 110,
     "faction_resource_cost": 0
   },
-  "unit_suns_aegis": {
+  "unit_hive_t1u2": {
     "faction": "temple",
     "tier": 1,
     "name": "suns aegis",
@@ -50,7 +50,7 @@
     "gold_cost": 110,
     "faction_resource_cost": 0
   },
-  "unit_crossbowman": {
+  "unit_hive_t2u0": {
     "faction": "temple",
     "tier": 2,
     "name": "crossbowman",
@@ -67,7 +67,7 @@
     "gold_cost": 105,
     "faction_resource_cost": 0
   },
-  "unit_austringer": {
+  "unit_hive_t2u1": {
     "faction": "temple",
     "tier": 2,
     "name": "austringer",
@@ -84,7 +84,7 @@
     "gold_cost": 140,
     "faction_resource_cost": 0
   },
-  "unit_marksman": {
+  "unit_hive_t2u2": {
     "faction": "temple",
     "tier": 2,
     "name": "marksman",
@@ -101,7 +101,7 @@
     "gold_cost": 140,
     "faction_resource_cost": 0
   },
-  "unit_griffin": {
+  "unit_hive_t3u0": {
     "faction": "temple",
     "tier": 3,
     "name": "griffin",
@@ -118,7 +118,7 @@
     "gold_cost": 255,
     "faction_resource_cost": 0
   },
-  "unit_temple_griffin": {
+  "unit_hive_t3u1": {
     "faction": "temple",
     "tier": 3,
     "name": "temple griffin",
@@ -135,7 +135,7 @@
     "gold_cost": 350,
     "faction_resource_cost": 0
   },
-  "unit_guardian_griffin": {
+  "unit_hive_t3u2": {
     "faction": "temple",
     "tier": 3,
     "name": "guardian griffin",
@@ -152,7 +152,7 @@
     "gold_cost": 350,
     "faction_resource_cost": 0
   },
-  "unit_lightweaver": {
+  "unit_hive_t4u0": {
     "faction": "temple",
     "tier": 4,
     "name": "lightweaver",
@@ -169,7 +169,7 @@
     "gold_cost": 310,
     "faction_resource_cost": 0
   },
-  "unit_hierophant": {
+  "unit_hive_t4u1": {
     "faction": "temple",
     "tier": 4,
     "name": "hierophant",
@@ -186,7 +186,7 @@
     "gold_cost": 440,
     "faction_resource_cost": 0
   },
-  "unit_sun_herald": {
+  "unit_hive_t4u2": {
     "faction": "temple",
     "tier": 4,
     "name": "sun herald",
@@ -203,7 +203,7 @@
     "gold_cost": 440,
     "faction_resource_cost": 0
   },
-  "unit_cavalry": {
+  "unit_hive_t5u0": {
     "faction": "temple",
     "tier": 5,
     "name": "cavalry",
@@ -220,7 +220,7 @@
     "gold_cost": 850,
     "faction_resource_cost": 0
   },
-  "unit_noble_cavalry": {
+  "unit_hive_t5u1": {
     "faction": "temple",
     "tier": 5,
     "name": "noble cavalry",
@@ -237,7 +237,7 @@
     "gold_cost": 1220,
     "faction_resource_cost": 0
   },
-  "unit_sunspear_cavalry": {
+  "unit_hive_t5u2": {
     "faction": "temple",
     "tier": 5,
     "name": "sunspear cavalry",
@@ -254,7 +254,7 @@
     "gold_cost": 1220,
     "faction_resource_cost": 0
   },
-  "unit_inquisitor": {
+  "unit_hive_t6u0": {
     "faction": "temple",
     "tier": 6,
     "name": "inquisitor",
@@ -271,7 +271,7 @@
     "gold_cost": 1000,
     "faction_resource_cost": 0
   },
-  "unit_mother_superior": {
+  "unit_hive_t6u1": {
     "faction": "temple",
     "tier": 6,
     "name": "mother superior",
@@ -288,7 +288,7 @@
     "gold_cost": 1500,
     "faction_resource_cost": 0
   },
-  "unit_excommunicator": {
+  "unit_hive_t6u2": {
     "faction": "temple",
     "tier": 6,
     "name": "excommunicator",
@@ -305,7 +305,7 @@
     "gold_cost": 1500,
     "faction_resource_cost": 0
   },
-  "unit_angel": {
+  "unit_hive_t7u0": {
     "faction": "temple",
     "tier": 7,
     "name": "angel",
@@ -322,7 +322,7 @@
     "gold_cost": 2400,
     "faction_resource_cost": 1
   },
-  "unit_archangel": {
+  "unit_hive_t7u1": {
     "faction": "temple",
     "tier": 7,
     "name": "archangel",
@@ -339,7 +339,7 @@
     "gold_cost": 4000,
     "faction_resource_cost": 2
   },
-  "unit_apotheosis": {
+  "unit_hive_t7u2": {
     "faction": "temple",
     "tier": 7,
     "name": "apotheosis",
@@ -357,4 +357,3 @@
     "faction_resource_cost": 2
   }
 }
-
