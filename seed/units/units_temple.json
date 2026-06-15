@@ -13,12 +13,6 @@
     "initiative": 5,
     "speed": 4,
     "upgrade": 0,
-    "passive_abilities": [
-      "living",
-      "melee attack",
-      "ranged defense 1"
-    ],
-    "active_abilities": [],
     "gold_cost": 85,
     "faction_resource_cost": 0
   },
@@ -36,13 +30,6 @@
     "initiative": 6,
     "speed": 4,
     "upgrade": 1,
-    "passive_abilities": [
-      "living",
-      "melee attack",
-      "ranged defense 1",
-      "double strike"
-    ],
-    "active_abilities": [],
     "gold_cost": 110,
     "faction_resource_cost": 0
   },
@@ -60,13 +47,6 @@
     "initiative": 5,
     "speed": 5,
     "upgrade": 2,
-    "passive_abilities": [
-      "living",
-      "melee attack",
-      "aegis",
-      "anointed for defense"
-    ],
-    "active_abilities": [],
     "gold_cost": 110,
     "faction_resource_cost": 0
   },
@@ -84,14 +64,6 @@
     "initiative": 5,
     "speed": 3,
     "upgrade": 0,
-    "passive_abilities": [
-      "living",
-      "ranged attack",
-      "view from the heavens"
-    ],
-    "active_abilities": [
-      "fine bolts 1"
-    ],
     "gold_cost": 105,
     "faction_resource_cost": 0
   },
@@ -109,15 +81,6 @@
     "initiative": 5,
     "speed": 4,
     "upgrade": 1,
-    "passive_abilities": [
-      "living",
-      "ranged attack",
-      "view from the heavens",
-      "double shot"
-    ],
-    "active_abilities": [
-      "fine bolts 1"
-    ],
     "gold_cost": 140,
     "faction_resource_cost": 0
   },
@@ -135,16 +98,6 @@
     "initiative": 7,
     "speed": 3,
     "upgrade": 2,
-    "passive_abilities": [
-      "living",
-      "ranged attack",
-      "view from the heavens",
-      "sharpshooter"
-    ],
-    "active_abilities": [
-      "fine bolts 2",
-      "piercing shot"
-    ],
     "gold_cost": 140,
     "faction_resource_cost": 0
   },
@@ -162,15 +115,6 @@
     "initiative": 9,
     "speed": 5,
     "upgrade": 0,
-    "passive_abilities": [
-      "magic creature",
-      "melee attack",
-      "flying",
-      "alert 1"
-    ],
-    "active_abilities": [
-      "valiant cry 1"
-    ],
     "gold_cost": 255,
     "faction_resource_cost": 0
   },
@@ -188,15 +132,6 @@
     "initiative": 12,
     "speed": 7,
     "upgrade": 1,
-    "passive_abilities": [
-      "magic creature",
-      "melee attack",
-      "flying",
-      "alert 2"
-    ],
-    "active_abilities": [
-      "valiant cry 2"
-    ],
     "gold_cost": 350,
     "faction_resource_cost": 0
   },
@@ -214,16 +149,6 @@
     "initiative": 10,
     "speed": 6,
     "upgrade": 2,
-    "passive_abilities": [
-      "magic creature",
-      "melee attack",
-      "flying",
-      "alert 1",
-      "loyal protector"
-    ],
-    "active_abilities": [
-      "valiant cry 2"
-    ],
     "gold_cost": 350,
     "faction_resource_cost": 0
   },
@@ -241,13 +166,6 @@
     "initiative": 4,
     "speed": 2,
     "upgrade": 0,
-    "passive_abilities": [
-      "living",
-      "ranged attack"
-    ],
-    "active_abilities": [
-      "inner glow 1"
-    ],
     "gold_cost": 310,
     "faction_resource_cost": 0
   },
@@ -265,14 +183,6 @@
     "initiative": 6,
     "speed": 4,
     "upgrade": 1,
-    "passive_abilities": [
-      "living",
-      "ranged attack"
-    ],
-    "active_abilities": [
-      "inner glow 2",
-      "holy ablution"
-    ],
     "gold_cost": 440,
     "faction_resource_cost": 0
   },
@@ -290,14 +200,6 @@
     "initiative": 5,
     "speed": 3,
     "upgrade": 2,
-    "passive_abilities": [
-      "living",
-      "ranged attack",
-      "anointed for damage"
-    ],
-    "active_abilities": [
-      "exaltation"
-    ],
     "gold_cost": 440,
     "faction_resource_cost": 0
   },
@@ -315,15 +217,6 @@
     "initiative": 10,
     "speed": 7,
     "upgrade": 0,
-    "passive_abilities": [
-      "living",
-      "melee sttack",
-      "piercing strike 1",
-      "inspiring 1",
-      "jousting bonus 1"
-    ],
-    "active_abilities": [
-    ],
     "gold_cost": 850,
     "faction_resource_cost": 0
   },
@@ -341,16 +234,6 @@
     "initiative": 13,
     "speed": 7,
     "upgrade": 1,
-    "passive_abilities": [
-      "living",
-      "melee sttack",
-      "piercing strike 2",
-      "inspiring 2",
-      "jousting bonus 2"
-    ],
-    "active_abilities": [
-      "charge"
-    ],
     "gold_cost": 1220,
     "faction_resource_cost": 0
   },
@@ -368,16 +251,6 @@
     "initiative": 10,
     "speed": 8,
     "upgrade": 2,
-    "passive_abilities": [
-      "living",
-      "melee sttack",
-      "piercing strike 2",
-      "inspiring 2",
-      "jousting bonus 2",
-      "anointed for attack"
-    ],
-    "active_abilities": [
-    ],
     "gold_cost": 1220,
     "faction_resource_cost": 0
   },
@@ -395,16 +268,6 @@
     "initiative": 7,
     "speed": 4,
     "upgrade": 0,
-    "passive_abilities": [
-      "living",
-      "melee attack",
-      "unyielding 1",
-      "absolute resistance"
-    ],
-    "active_abilities": [
-      "infuse armor 1",
-      "celestial flail"
-    ],
     "gold_cost": 1000,
     "faction_resource_cost": 0
   },
@@ -422,18 +285,6 @@
     "initiative": 9,
     "speed": 5,
     "upgrade": 1,
-    "passive_abilities": [
-      "living",
-      "melee attack",
-      "unyielding 2",
-      "absolute resistance",
-      "celestial armor",
-      "hivemind: nest protector"
-    ],
-    "active_abilities": [
-      "infuse armor 2",
-      "celestial flail"
-    ],
     "gold_cost": 1500,
     "faction_resource_cost": 0
   },
@@ -451,16 +302,6 @@
     "initiative": 8,
     "speed": 6,
     "upgrade": 2,
-    "passive_abilities": [
-      "living",
-      "melee attack",
-      "unyielding 2",
-      "absolute resistance"
-    ],
-    "active_abilities": [
-      "infuse armor 2",
-      "swift penance"
-    ],
     "gold_cost": 1500,
     "faction_resource_cost": 0
   },
@@ -478,15 +319,6 @@
     "initiative": 8,
     "speed": 4,
     "upgrade": 0,
-    "passive_abilities": [
-      "embodiment",
-      "ranged attack",
-      "flying",
-      "forging perfection"
-    ],
-    "active_abilities": [
-      "refract and reflect"
-    ],
     "gold_cost": 2400,
     "faction_resource_cost": 1
   },
@@ -504,18 +336,6 @@
     "initiative": 12,
     "speed": 5,
     "upgrade": 1,
-    "passive_abilities": [
-      "embodiment",
-      "ranged attack",
-      "flying",
-      "forging perfection",
-      "sharpshooter",
-      "duelist"
-    ],
-    "active_abilities": [
-      "refract and reflect",
-      "devouring chalice"
-    ],
     "gold_cost": 4000,
     "faction_resource_cost": 2
   },
@@ -533,18 +353,6 @@
     "initiative": 10,
     "speed": 10,
     "upgrade": 2,
-    "passive_abilities": [
-      "embodiment",
-      "ranged attack",
-      "flying",
-      "forging perfection",
-      "purity aura",
-      "duelist"
-    ],
-    "active_abilities": [
-      "refract and reflect",
-      "unbending pride"
-    ],
     "gold_cost": 4000,
     "faction_resource_cost": 2
   }

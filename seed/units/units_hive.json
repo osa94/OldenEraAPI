@@ -13,7 +13,6 @@
     "initiative": 5,
     "speed": 4,
     "upgrade": 0,
-    "active_abilities": [],
     "gold_cost": 80,
     "faction_resource_cost": 0
   },
@@ -31,7 +30,6 @@
     "initiative": 5,
     "speed": 4,
     "upgrade": 1,
-    "active_abilities": [],
     "gold_cost": 100,
     "faction_resource_cost": 0
   },
@@ -49,7 +47,6 @@
     "initiative": 6,
     "speed": 5,
     "upgrade": 2,
-    "active_abilities": [],
     "gold_cost": 100,
     "faction_resource_cost": 0
   },
@@ -67,9 +64,6 @@
     "initiative": 6,
     "speed": 5,
     "upgrade": 0,
-    "active_abilities": [
-      "harvest 1"
-    ],
     "gold_cost": 125,
     "faction_resource_cost": 0
   },
@@ -87,7 +81,6 @@
     "initiative": 7,
     "speed": 6,
     "upgrade": 1,
-    "active_abilities": [],
     "gold_cost": 170,
     "faction_resource_cost": 0
   },
@@ -105,9 +98,6 @@
     "initiative": 7,
     "speed": 7,
     "upgrade": 2,
-    "active_abilities": [
-      "harvest 2"
-    ],
     "gold_cost": 170,
     "faction_resource_cost": 0
   },
@@ -125,7 +115,6 @@
     "initiative": 10,
     "speed": 7,
     "upgrade": 0,
-    "active_abilities": [],
     "gold_cost": 235,
     "faction_resource_cost": 0
   },
@@ -143,7 +132,6 @@
     "initiative": 4,
     "speed": 11,
     "upgrade": 1,
-    "active_abilities": [],
     "gold_cost": 320,
     "faction_resource_cost": 0
   },
@@ -161,7 +149,6 @@
     "initiative": 12,
     "speed": 9,
     "upgrade": 2,
-    "active_abilities": [],
     "gold_cost": 320,
     "faction_resource_cost": 0
   },
@@ -179,11 +166,6 @@
     "initiative": 3,
     "speed": 4,
     "upgrade": 0,
-    "active_abilities": [
-      "adaptation: attack 1",
-      "adaptation: defense 1",
-      "adaptation: speed 1"
-    ],
     "gold_cost": 300,
     "faction_resource_cost": 0
   },
@@ -201,11 +183,6 @@
     "initiative": 4,
     "speed": 5,
     "upgrade": 1,
-    "active_abilities": [
-      "adaptation: attack 1",
-      "adaptation: defense 1",
-      "adaptation: speed 1"
-    ],
     "gold_cost": 420,
     "faction_resource_cost": 0
   },
@@ -223,11 +200,6 @@
     "initiative": 4,
     "speed": 4,
     "upgrade": 2,
-    "active_abilities": [
-      "adaptation: attack 2",
-      "adaptation: defense 2",
-      "adaptation: speed 2"
-    ],
     "gold_cost": 420,
     "faction_resource_cost": 0
   },
@@ -245,9 +217,6 @@
     "initiative": 11,
     "speed": 6,
     "upgrade": 0,
-    "active_abilities": [
-      "rapid assault"
-    ],
     "gold_cost": 770,
     "faction_resource_cost": 0
   },
@@ -265,10 +234,6 @@
     "initiative": 12,
     "speed": 7,
     "upgrade": 1,
-    "active_abilities": [
-      "rapid assault",
-      "terror"
-    ],
     "gold_cost": 1100,
     "faction_resource_cost": 0
   },
@@ -286,10 +251,6 @@
     "initiative": 12,
     "speed": 6,
     "upgrade": 2,
-    "active_abilities": [
-      "rapid assault",
-      "beelzebubs blessing"
-    ],
     "gold_cost": 1100,
     "faction_resource_cost": 0
   },
@@ -307,7 +268,6 @@
     "initiative": 8,
     "speed": 8,
     "upgrade": 0,
-    "active_abilities": [],
     "gold_cost": 1200,
     "faction_resource_cost": 0
   },
@@ -325,9 +285,6 @@
     "initiative": 8,
     "speed": 10,
     "upgrade": 1,
-    "active_abilities": [
-      "devour"
-    ],
     "gold_cost": 1900,
     "faction_resource_cost": 0
   },
@@ -345,7 +302,6 @@
     "initiative": 9,
     "speed": 8,
     "upgrade": 2,
-    "active_abilities": [],
     "gold_cost": 1900,
     "faction_resource_cost": 0
   },
@@ -363,10 +319,6 @@
     "initiative": 7,
     "speed": 6,
     "upgrade": 0,
-    "active_abilities": [
-      "blasphemous adoration 1",
-      "contaminating blast 1"
-    ],
     "gold_cost": 2200,
     "faction_resource_cost": 1
   },
@@ -384,11 +336,6 @@
     "initiative": 13,
     "speed": 6,
     "upgrade": 1,
-    "active_abilities": [
-      "blasphemous adoration 1",
-      "contaminating blast 2",
-      "promise of love"
-    ],
     "gold_cost": 3700,
     "faction_resource_cost": 2
   },
@@ -406,9 +353,6 @@
     "initiative": 8,
     "speed": 9,
     "upgrade": 2,
-    "active_abilities": [
-      "blasphemous adoration 2"
-    ],
     "gold_cost": 3700,
     "faction_resource_cost": 2
   }
