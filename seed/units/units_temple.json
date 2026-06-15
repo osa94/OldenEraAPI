@@ -1,0 +1,552 @@
+{
+  "unit_swordsman": {
+    "faction": "temple",
+    "tier": 1,
+    "name": "swordsman",
+    "hp": 12,
+    "attack": 4,
+    "defence": 4,
+    "min_damage": 2,
+    "max_damage": 3,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 5,
+    "speed": 4,
+    "upgrade": 0,
+    "passive_abilities": [
+      "living",
+      "melee attack",
+      "ranged defense 1"
+    ],
+    "active_abilities": [],
+    "gold_cost": 85,
+    "faction_resource_cost": 0
+  },
+  "unit_guard_captain": {
+    "faction": "temple",
+    "tier": 1,
+    "name": "guard captain",
+    "hp": 12,
+    "attack": 6,
+    "defence": 5,
+    "min_damage": 2,
+    "max_damage": 3,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 6,
+    "speed": 4,
+    "upgrade": 1,
+    "passive_abilities": [
+      "living",
+      "melee attack",
+      "ranged defense 1",
+      "double strike"
+    ],
+    "active_abilities": [],
+    "gold_cost": 110,
+    "faction_resource_cost": 0
+  },
+  "unit_suns_aegis": {
+    "faction": "temple",
+    "tier": 1,
+    "name": "suns aegis",
+    "hp": 15,
+    "attack": 5,
+    "defence": 8,
+    "min_damage": 2,
+    "max_damage": 3,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 5,
+    "speed": 5,
+    "upgrade": 2,
+    "passive_abilities": [
+      "living",
+      "melee attack",
+      "aegis",
+      "anointed for defense"
+    ],
+    "active_abilities": [],
+    "gold_cost": 110,
+    "faction_resource_cost": 0
+  },
+  "unit_crossbowman": {
+    "faction": "temple",
+    "tier": 2,
+    "name": "crossbowman",
+    "hp": 10,
+    "attack": 5,
+    "defence": 3,
+    "min_damage": 3,
+    "max_damage": 4,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 5,
+    "speed": 3,
+    "upgrade": 0,
+    "passive_abilities": [
+      "living",
+      "ranged attack",
+      "view from the heavens"
+    ],
+    "active_abilities": [
+      "fine bolts 1"
+    ],
+    "gold_cost": 105,
+    "faction_resource_cost": 0
+  },
+  "unit_austringer": {
+    "faction": "temple",
+    "tier": 2,
+    "name": "austringer",
+    "hp": 10,
+    "attack": 5,
+    "defence": 4,
+    "min_damage": 3,
+    "max_damage": 4,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 5,
+    "speed": 4,
+    "upgrade": 1,
+    "passive_abilities": [
+      "living",
+      "ranged attack",
+      "view from the heavens",
+      "double shot"
+    ],
+    "active_abilities": [
+      "fine bolts 1"
+    ],
+    "gold_cost": 140,
+    "faction_resource_cost": 0
+  },
+  "unit_marksman": {
+    "faction": "temple",
+    "tier": 2,
+    "name": "marksman",
+    "hp": 10,
+    "attack": 6,
+    "defence": 3,
+    "min_damage": 3,
+    "max_damage": 4,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 7,
+    "speed": 3,
+    "upgrade": 2,
+    "passive_abilities": [
+      "living",
+      "ranged attack",
+      "view from the heavens",
+      "sharpshooter"
+    ],
+    "active_abilities": [
+      "fine bolts 2",
+      "piercing shot"
+    ],
+    "gold_cost": 140,
+    "faction_resource_cost": 0
+  },
+  "unit_griffin": {
+    "faction": "temple",
+    "tier": 3,
+    "name": "griffin",
+    "hp": 25,
+    "attack": 7,
+    "defence": 6,
+    "min_damage": 5,
+    "max_damage": 9,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 9,
+    "speed": 5,
+    "upgrade": 0,
+    "passive_abilities": [
+      "magic creature",
+      "melee attack",
+      "flying",
+      "alert 1"
+    ],
+    "active_abilities": [
+      "valiant cry 1"
+    ],
+    "gold_cost": 255,
+    "faction_resource_cost": 0
+  },
+  "unit_temple_griffin": {
+    "faction": "temple",
+    "tier": 3,
+    "name": "temple griffin",
+    "hp": 25,
+    "attack": 8,
+    "defence": 6,
+    "min_damage": 5,
+    "max_damage": 9,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 12,
+    "speed": 7,
+    "upgrade": 1,
+    "passive_abilities": [
+      "magic creature",
+      "melee attack",
+      "flying",
+      "alert 2"
+    ],
+    "active_abilities": [
+      "valiant cry 2"
+    ],
+    "gold_cost": 350,
+    "faction_resource_cost": 0
+  },
+  "unit_guardian_griffin": {
+    "faction": "temple",
+    "tier": 3,
+    "name": "guardian griffin",
+    "hp": 25,
+    "attack": 9,
+    "defence": 10,
+    "min_damage": 7,
+    "max_damage": 7,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 10,
+    "speed": 6,
+    "upgrade": 2,
+    "passive_abilities": [
+      "magic creature",
+      "melee attack",
+      "flying",
+      "alert 1",
+      "loyal protector"
+    ],
+    "active_abilities": [
+      "valiant cry 2"
+    ],
+    "gold_cost": 350,
+    "faction_resource_cost": 0
+  },
+  "unit_lightweaver": {
+    "faction": "temple",
+    "tier": 4,
+    "name": "lightweaver",
+    "hp": 35,
+    "attack": 11,
+    "defence": 11,
+    "min_damage": 11,
+    "max_damage": 11,
+    "morale": 2,
+    "luck": 0,
+    "initiative": 4,
+    "speed": 2,
+    "upgrade": 0,
+    "passive_abilities": [
+      "living",
+      "ranged attack"
+    ],
+    "active_abilities": [
+      "inner glow 1"
+    ],
+    "gold_cost": 310,
+    "faction_resource_cost": 0
+  },
+  "unit_hierophant": {
+    "faction": "temple",
+    "tier": 4,
+    "name": "hierophant",
+    "hp": 35,
+    "attack": 13,
+    "defence": 16,
+    "min_damage": 11,
+    "max_damage": 11,
+    "morale": 2,
+    "luck": 0,
+    "initiative": 6,
+    "speed": 4,
+    "upgrade": 1,
+    "passive_abilities": [
+      "living",
+      "ranged attack"
+    ],
+    "active_abilities": [
+      "inner glow 2",
+      "holy ablution"
+    ],
+    "gold_cost": 440,
+    "faction_resource_cost": 0
+  },
+  "unit_sun_herald": {
+    "faction": "temple",
+    "tier": 4,
+    "name": "sun herald",
+    "hp": 35,
+    "attack": 16,
+    "defence": 13,
+    "min_damage": 11,
+    "max_damage": 18,
+    "morale": 2,
+    "luck": 0,
+    "initiative": 5,
+    "speed": 3,
+    "upgrade": 2,
+    "passive_abilities": [
+      "living",
+      "ranged attack",
+      "anointed for damage"
+    ],
+    "active_abilities": [
+      "exaltation"
+    ],
+    "gold_cost": 440,
+    "faction_resource_cost": 0
+  },
+  "unit_cavalry": {
+    "faction": "temple",
+    "tier": 5,
+    "name": "cavalry",
+    "hp": 85,
+    "attack": 12,
+    "defence": 17,
+    "min_damage": 10,
+    "max_damage": 14,
+    "morale": 1,
+    "luck": 0,
+    "initiative": 10,
+    "speed": 7,
+    "upgrade": 0,
+    "passive_abilities": [
+      "living",
+      "melee sttack",
+      "piercing strike 1",
+      "inspiring 1",
+      "jousting bonus 1"
+    ],
+    "active_abilities": [
+    ],
+    "gold_cost": 850,
+    "faction_resource_cost": 0
+  },
+  "unit_noble_cavalry": {
+    "faction": "temple",
+    "tier": 5,
+    "name": "noble cavalry",
+    "hp": 85,
+    "attack": 12,
+    "defence": 17,
+    "min_damage": 12,
+    "max_damage": 16,
+    "morale": 1,
+    "luck": 0,
+    "initiative": 13,
+    "speed": 7,
+    "upgrade": 1,
+    "passive_abilities": [
+      "living",
+      "melee sttack",
+      "piercing strike 2",
+      "inspiring 2",
+      "jousting bonus 2"
+    ],
+    "active_abilities": [
+      "charge"
+    ],
+    "gold_cost": 1220,
+    "faction_resource_cost": 0
+  },
+  "unit_sunspear_cavalry": {
+    "faction": "temple",
+    "tier": 5,
+    "name": "sunspear cavalry",
+    "hp": 85,
+    "attack": 14,
+    "defence": 22,
+    "min_damage": 12,
+    "max_damage": 16,
+    "morale": 2,
+    "luck": 0,
+    "initiative": 10,
+    "speed": 8,
+    "upgrade": 2,
+    "passive_abilities": [
+      "living",
+      "melee sttack",
+      "piercing strike 2",
+      "inspiring 2",
+      "jousting bonus 2",
+      "anointed for attack"
+    ],
+    "active_abilities": [
+    ],
+    "gold_cost": 1220,
+    "faction_resource_cost": 0
+  },
+  "unit_inquisitor": {
+    "faction": "temple",
+    "tier": 6,
+    "name": "inquisitor",
+    "hp": 90,
+    "attack": 20,
+    "defence": 24,
+    "min_damage": 19,
+    "max_damage": 23,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 7,
+    "speed": 4,
+    "upgrade": 0,
+    "passive_abilities": [
+      "living",
+      "melee attack",
+      "unyielding 1",
+      "absolute resistance"
+    ],
+    "active_abilities": [
+      "infuse armor 1",
+      "celestial flail"
+    ],
+    "gold_cost": 1000,
+    "faction_resource_cost": 0
+  },
+  "unit_mother_superior": {
+    "faction": "temple",
+    "tier": 6,
+    "name": "mother superior",
+    "hp": 125,
+    "attack": 20,
+    "defence": 28,
+    "min_damage": 19,
+    "max_damage": 23,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 9,
+    "speed": 5,
+    "upgrade": 1,
+    "passive_abilities": [
+      "living",
+      "melee attack",
+      "unyielding 2",
+      "absolute resistance",
+      "celestial armor",
+      "hivemind: nest protector"
+    ],
+    "active_abilities": [
+      "infuse armor 2",
+      "celestial flail"
+    ],
+    "gold_cost": 1500,
+    "faction_resource_cost": 0
+  },
+  "unit_excommunicator": {
+    "faction": "temple",
+    "tier": 6,
+    "name": "excommunicator",
+    "hp": 90,
+    "attack": 26,
+    "defence": 24,
+    "min_damage": 23,
+    "max_damage": 33,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 8,
+    "speed": 6,
+    "upgrade": 2,
+    "passive_abilities": [
+      "living",
+      "melee attack",
+      "unyielding 2",
+      "absolute resistance"
+    ],
+    "active_abilities": [
+      "infuse armor 2",
+      "swift penance"
+    ],
+    "gold_cost": 1500,
+    "faction_resource_cost": 0
+  },
+  "unit_angel": {
+    "faction": "temple",
+    "tier": 7,
+    "name": "angel",
+    "hp": 225,
+    "attack": 30,
+    "defence": 30,
+    "min_damage": 50,
+    "max_damage": 75,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 8,
+    "speed": 4,
+    "upgrade": 0,
+    "passive_abilities": [
+      "embodiment",
+      "ranged attack",
+      "flying",
+      "forging perfection"
+    ],
+    "active_abilities": [
+      "refract and reflect"
+    ],
+    "gold_cost": 2400,
+    "faction_resource_cost": 1
+  },
+  "unit_archangel": {
+    "faction": "temple",
+    "tier": 7,
+    "name": "archangel",
+    "hp": 225,
+    "attack": 35,
+    "defence": 30,
+    "min_damage": 50,
+    "max_damage": 75,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 12,
+    "speed": 5,
+    "upgrade": 1,
+    "passive_abilities": [
+      "embodiment",
+      "ranged attack",
+      "flying",
+      "forging perfection",
+      "sharpshooter",
+      "duelist"
+    ],
+    "active_abilities": [
+      "refract and reflect",
+      "devouring chalice"
+    ],
+    "gold_cost": 4000,
+    "faction_resource_cost": 2
+  },
+  "unit_apotheosis": {
+    "faction": "temple",
+    "tier": 7,
+    "name": "apotheosis",
+    "hp": 300,
+    "attack": 30,
+    "defence": 35,
+    "min_damage": 50,
+    "max_damage": 75,
+    "morale": 0,
+    "luck": 0,
+    "initiative": 10,
+    "speed": 10,
+    "upgrade": 2,
+    "passive_abilities": [
+      "embodiment",
+      "ranged attack",
+      "flying",
+      "forging perfection",
+      "purity aura",
+      "duelist"
+    ],
+    "active_abilities": [
+      "refract and reflect",
+      "unbending pride"
+    ],
+    "gold_cost": 4000,
+    "faction_resource_cost": 2
+  }
+}
+
