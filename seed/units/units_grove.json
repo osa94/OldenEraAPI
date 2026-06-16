@@ -87,7 +87,7 @@
   "unit_grove_t2u2": {
     "faction": "grove",
     "tier": 2,
-    "name": "harvester locust",
+    "name": "dusk hoplet",
     "hp": 18,
     "attack": 5,
     "defence": 5,
@@ -342,7 +342,7 @@
   "unit_grove_t7u2": {
     "faction": "grove",
     "tier": 7,
-    "name": "hive huntress",
+    "name": "energy phoenix",
     "hp": 250,
     "attack": 28,
     "defence": 36,
