@@ -10,7 +10,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("command", choices=["init", "drop", "seed"])
 args = parser.parse_args()
 
-units = Path("seed/units")
+units = Path("../seed/units")
 
 Model = TypeVar("Model", bound=Base)
 
