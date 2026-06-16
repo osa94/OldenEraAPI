@@ -231,9 +231,9 @@
     "max_damage": 20,
     "morale": 0,
     "luck": 0,
-    "initiative": 13,
-    "speed": 7,
-    "upgrade": 4,
+    "initiative": 7,
+    "speed": 4,
+    "upgrade": 1,
     "gold_cost": 750,
     "faction_resource_cost": 0
   },
